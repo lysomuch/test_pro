@@ -1,4 +1,4 @@
-./magento setup:install --base-url=http://127.0.0.1/magento2/ --db-host=localhost --db-name=magento --db-user=magento --db-password=BnB9ppnS24nuhAQL --admin-firstname=Magento --admin-lastname=User --admin-email=chan-kit@hotmail.com --admin-user=admin --admin-password=chankit33 --language=en_US --currency=USD --timezone=America/Chicago --use-rewrites=1
+./magento setup:install --base-url=http://47.107.167.45/ --db-host=localhost --db-name=magento --db-user=magento --db-password=BnB9ppnS24nuhAQL --admin-firstname=Magento --admin-lastname=User --admin-email=chan-kit@hotmail.com --admin-user=admin --admin-password=chankit33 --language=en_US --currency=USD --timezone=America/Chicago --use-rewrites=1
 
 
 /admin_8nejmr
